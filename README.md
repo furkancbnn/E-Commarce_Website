@@ -1,5 +1,5 @@
 # E-Commarce_Website
 
-## HTML + CSS + JavaSCript + Bootstrap + Jquery + Toastr
+## HTML + CSS + JavaScript + Bootstrap + Jquery + Toastr
 
 ![](e-commarce-new.gif)
